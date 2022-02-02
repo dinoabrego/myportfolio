@@ -45,7 +45,7 @@ html {
 
 .main-content .section-dark {
   margin: 30px;
-  background-color: #f0f3f5;
+  background-color: var(--background2);
   padding: 60px 0px;
 }
 
@@ -60,7 +60,7 @@ html {
   }
 }
 
-.main-content .section-light.work .work-img {
+.main-content .section-dark.work .work-img {
   margin-bottom: 1rem;
   background-size: cover;
   background-repeat: no-repeat;
